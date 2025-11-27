@@ -29,6 +29,7 @@ export default function About() {
       <ul className="list-disc list-inside">
         <li>Vercel</li>
         <li>Sevalla</li>
+        <li>Netlify</li>
       </ul>
     </div>
   );
