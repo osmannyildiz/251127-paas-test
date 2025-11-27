@@ -24,6 +24,11 @@ export default function About() {
           </p>
         </div>
       </div>
+
+      <h2 className="text-2xl font-semibold mt-8">Deployed on:</h2>
+      <ul className="list-disc list-inside">
+        <li>Vercel</li>
+      </ul>
     </div>
   );
 }
