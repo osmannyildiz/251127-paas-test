@@ -30,6 +30,7 @@ export default function About() {
         <li>Vercel</li>
         <li>Sevalla</li>
         <li>Netlify</li>
+        <li>Cloudflare Workers & Pages</li>
       </ul>
     </div>
   );
