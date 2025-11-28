@@ -32,6 +32,7 @@ export default function About() {
         <li>Netlify</li>
         <li>Cloudflare Workers & Pages</li>
         <li>Render</li>
+        <li>Railway</li>
       </ul>
     </div>
   );
