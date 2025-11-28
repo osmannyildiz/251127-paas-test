@@ -31,6 +31,7 @@ export default function About() {
         <li>Sevalla</li>
         <li>Netlify</li>
         <li>Cloudflare Workers & Pages</li>
+        <li>Render</li>
       </ul>
     </div>
   );
