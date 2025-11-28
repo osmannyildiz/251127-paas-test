@@ -33,6 +33,7 @@ export default function About() {
         <li>Cloudflare Workers & Pages</li>
         <li>Render</li>
         <li>Railway</li>
+        <li>Firebase App Hosting</li>
       </ul>
     </div>
   );
